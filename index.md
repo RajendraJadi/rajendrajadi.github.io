@@ -5,7 +5,9 @@ Software Engineer with programming experience of 3+ years. Seeking full time opp
 Technical skills
 • Python, SQL, Java, Scala, C++ | • Linux, Natural Language Processing
 • Hadoop, MapReduce, Spark, Hive, Solr | • AWS (S3, EC2, EMR), Google Cloud
-• HiveQL, PostgreSQL, Teradata, MySQL | • Javascript, php, Git, Docker, Tableau Work Experience
+• HiveQL, PostgreSQL, Teradata, MySQL | • Javascript, php, Git, Docker, Tableau 
+
+### Work Experience
 
 ### Data Engineer (Internship), Relishly Inc, Santa Clara, CA June 2018- Aug 2018
 A technology startup that builds AI platform to enrich shopping experiences for e-commerce stores, retailers, comparison shopping engines.
