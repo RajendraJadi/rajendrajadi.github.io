@@ -1,16 +1,13 @@
-##Rajendra Jadi  9539 University terrace Dr Apt K, Charlotte, NC 28262
+## Rajendra Jadi  9539 University terrace Dr Apt K, Charlotte, NC 28262
 rajendrayjadi@gmail.com 704-241-4674 https://www.linkedin.com/in/rjadi/ https://github.com/RajendraJadi
 Software Engineer with programming experience of 3+ years. Seeking full time opportunities in Software Engineering, Data Engineering.
 
 Technical skills
-• Python, SQL, Java, Scala, C++
-• Linux, Natural Language Processing
-• Hadoop, MapReduce, Spark, Hive, Solr
-• AWS (S3, EC2, EMR), Google Cloud
-• HiveQL, PostgreSQL, Teradata, MySQL
-• Javascript, php, Git, Docker, Tableau Work Experience
+• Python, SQL, Java, Scala, C++ | • Linux, Natural Language Processing
+• Hadoop, MapReduce, Spark, Hive, Solr | • AWS (S3, EC2, EMR), Google Cloud
+• HiveQL, PostgreSQL, Teradata, MySQL | • Javascript, php, Git, Docker, Tableau Work Experience
 
-###Data Engineer (Internship), Relishly Inc, Santa Clara, CA June 2018- Aug 2018
+### Data Engineer (Internship), Relishly Inc, Santa Clara, CA June 2018- Aug 2018
 A technology startup that builds AI platform to enrich shopping experiences for e-commerce stores, retailers, comparison shopping engines.
 Development (Python | Linux | Shell | Apache Beam | Solr | Google Cloud)
 • Built Data pipelines using Apache Beam to analyze real time logs of e-commerce website to create analytics indexing the data in Solr.
@@ -19,7 +16,7 @@ Development (Python | Linux | Shell | Apache Beam | Solr | Google Cloud)
 • Automated backup of Solr collections from Solr to Google storage.
 • Automated the solr, zookeeper cluster setup in google cloud and implemented disaster recovery during downtime.
 
-###Software Engineer, Tesco PLC, India July 2014 – July 2017
+### Software Engineer, Tesco PLC, India July 2014 – July 2017
 The multinational Supply chain and general merchandise retailer.
 Development (Linux| Java | Hadoop | Hive | SQL | Spark | Teradata | ETL)
 • Developed and implemented the complex ETL solution for Group Promotional Forecasting model for store appliance which provides near real time accurate promotion forecasting to deliver availability, waste and stockholding benefits.
@@ -28,13 +25,13 @@ Development (Linux| Java | Hadoop | Hive | SQL | Spark | Teradata | ETL)
 • Built an automation tool to perform functional testing, QA testing, referential integrity checks using Java and Teradata stored procedures to automate routine tasks.
 • Automated batch monitoring and testing activities utilizing shell scripting and python programming to drive automation, reducing manual efforts by 30%.
 
-###Education
+### Education
 Master’s Degree, Computer Science (3.75/4.00) University of North Carolina at Charlotte Expected Graduation: December 2018
 Courses: Parallel Computing, Machine-Learning, Cloud Computing, Natural Language Processing, Big Data analytics
 Bachelor’s Degree, Information Science (8.00/10) Visvesvaraya Technological University, India Aug 2010 – Jun 2014
 Courses: Software Engineering, Data warehousing and Data mining, Business Intelligence, Databases, Web Development 
 
-###Research/Academic Projects
+### Research/Academic Projects
 Software Engineering: Classification of Facebook news feeds and Sentiment analysis - Developed a tool that extracts real-time data, classifies the Facebook user’s news feeds into various categories using classifiers like Naïve Bayes, SVM, Logistic Regression and perform sentiment analysis on facebook news feeds. Publication: International Conference on Advances in Computing, Communications and Informatics
 Parallel Programming: Implemented parallel algorithms using pthreads, openMP, MPI and analyzed speedup of various algorithms.
 Natural Language Processing: Built a classifier in Python to classify 2016 Presidential debate using Multinomial Naive Bayes Classifier and Support Vector Classifier. Increased accuracy of classifier by 2.5%. Implemented Language Model and spell checker in python.
