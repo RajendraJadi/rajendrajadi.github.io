@@ -1,10 +1,10 @@
-## Rajendra Jadi  9539 University terrace Dr Apt K, Charlotte, NC 28262
+## Rajendra Jadi  
 rajendrayjadi@gmail.com 704-241-4674 https://www.linkedin.com/in/rjadi/ https://github.com/RajendraJadi
 Software Engineer with programming experience of 3+ years. Seeking full time opportunities in Software Engineering, Data Engineering.
 
 Technical skills
------------- | -------------
 • Python, SQL, Java, Scala, C++ | • Linux, Natural Language Processing
+--------------------------------|--------------------------------------
 • Hadoop, MapReduce, Spark, Hive, Solr | • AWS (S3, EC2, EMR), Google Cloud
 • HiveQL, PostgreSQL, Teradata, MySQL | • Javascript, php, Git, Docker, Tableau Work Experience
 
@@ -41,4 +41,4 @@ Data Mining: Independent Research Project - Implementing Action Rules for Sentim
 Indexed Wikipedia dataset using Elastic search, Solr in AWS and Google cloud.
 Web Development: Research Assistant - Developed frond end components using PHP, HTML & javascript in Laravel framework. Fabricated the interface of website using HTML, CSS, JavaScript and JQuery.
 Other Technologies: Shell Scripting, Scala, Git, Ab Initio, ETL, HDFS, Oozie, Yarn, NLTK, Numpy, Pandas, Sci-kit learn, Git, TensorFlow, Anaconda, Docker, Tableau, Linux, Microsoft Windows, XML, JSON, Unit testing, Pytest, Performance testing.
-Website: https://rajendrajadi.github.io/
+Website: https://rajendrajadi.github.io/|
