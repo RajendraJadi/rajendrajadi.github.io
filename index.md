@@ -3,8 +3,8 @@ rajendrayjadi@gmail.com 704-241-4674 https://www.linkedin.com/in/rjadi/ https://
 Software Engineer with programming experience of 3+ years. Seeking full time opportunities in Software Engineering, Data Engineering.
 
 Technical skills
+------------ | -------------
 • Python, SQL, Java, Scala, C++ | • Linux, Natural Language Processing
---------------------------------|--------------------------------------
 • Hadoop, MapReduce, Spark, Hive, Solr | • AWS (S3, EC2, EMR), Google Cloud
 • HiveQL, PostgreSQL, Teradata, MySQL | • Javascript, php, Git, Docker, Tableau Work Experience
 
