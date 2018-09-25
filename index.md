@@ -1,8 +1,260 @@
 
-<object data="https://github.com/RajendraJadi/rajendrajadi.github.io/blob/master/Rajendra_Jadi.pdf" width="700px" height="700px">
-    <embed src="https://github.com/RajendraJadi/rajendrajadi.github.io/blob/master/Rajendra_Jadi.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/RajendraJadi/rajendrajadi.github.io/blob/master/Rajendra_Jadi.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/RajendraJadi/rajendrajadi.github.io/blob/3cedeec49abec618182159c17a61d0f17d1bc559/Rajendra_Jadi.pdf">Permalink</a>
-
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Rajendra Jadi</title>
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.min.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.min.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body>
+	<div class="jumbotron" style="background-color: #424242;">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3">	
+					<div>
+						<img src="/images/image.jpg" class="ui circular image">
+					</div>
+				</div>
+				<div class="col-md-9">
+					<h1 class="ui inverted teal header" style="font-size: 3em;">PRIYANCE JAYESHBHAI MANDLEWALA</h1>
+					<div class="ui section divider"></div>
+					<p class="ui inverted header">Pursuing Masters In Computer Science at North Carolina State University<br>
+						Former Application Development Intern at NetApp<br>
+						Skills: Java | Python | R | HTML | CSS | BootStrap | AngularJS | Hibernate Framework | REST | JavaScript |<br>
+						MySQL | Oracle Database | PL/SQL | Git | MEAN Stack | Micro-service development <br>
+						<br>
+						<a href="https://drive.google.com/open?id=1oMhGxAcbQRUVE0bx6f4ZRMiWwXQpAlvd" target="_blank"><button class="ui inverted teal massive button">Resume</button></a>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="ui container">
+		<div class="ui styled accordion" style="width: 100%;">
+			<div class=" active title" style="font-size: 2em;">
+				<i class="dropdown icon"></i>
+				EDUCATION
+			</div>
+			<div class=" active content">
+				<div class="ui divided items">
+					<div class="item">
+						<div class="ui circular tiny image">
+							<img src="images/nc-state_symbol.jpg">
+						</div>
+						<div class="middle aligned content">
+							<b>North carolina State University</b><br>
+							Masters of Science in Computer Science<br>
+							<b>GPA:</b> 3.88/4.0<br>
+							<b>Courses:</b> Design And Analysis of Algorithms | IOT Analytics | Database Management Systems | <br>
+							Automated Learning and Data Analysis | Software Engineering | Data Driven Decision Making | <br>
+							Operating Systems | Service Oriented Computing 
+						</div>
+					</div>
+					<div class="item">
+						<div class="ui circular tiny image">
+							<img src="images/Nirma_University_Logo.png">
+						</div>
+						<div class="middle aligned content">
+							<b>Nirma University</b><br>
+							B.Tech in Computer Engineering<br>
+							<b>GPA:</b> 8.02/10.0<br>
+							<b>Courses:</b> Data Structures | Big Data Analytics | Object-Oriented Programming | Machine Learning |<br>
+							Artificial Intelligence | Software Engineering | Operating Systems
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<br>
+		<div class="ui styled accordion" style="width: 100%;">
+			<div class="active title" style="font-size: 2em;">
+				<i class="dropdown icon"></i>
+				EXPERIENCE
+			</div>
+			<div class="active content">
+				<div class="ui three stackable cards">
+					<div class="ui card">
+						<div class="content" style="background-color: #424242; max-height:15%;">
+							<div class="ui header" style="color: white;">Application Development Intern</div>
+						</div>
+						<div class="content">
+							<h4 class="ui sub header" style="font-size: 1.5em;">May 2018 – August 2018</h4>
+							<div class="ui small feed">
+								<div class="event">
+									<div class="content">
+										<div class="summary" style="font-size: 150%; text-align: justify; ">
+											<ul>
+												<li>Designed RESTFul micro-service using Jersey framework, java and hibernate for the workplace tool to automate the approval workflow within NetApp which is consumed by different voice enabled platforms like ALEXA, Cortana and Google Assistant</li>
+												<li>Developed a cookbook for each platform which can be consumed by others to add new functionalities.</li>
+												<li>Worked on a project to optimize the run-time of a Spark-Cassandra ecosystem of a project named ASUP by analysing the ecosystem using profiling tool and helped in optimizing the areas taking more time.</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="extra content">
+							<div class="right floated author">
+								<img class="ui mini circular image" src="images/netapp.png"> NetApp
+							</div>
+						</div>
+					</div>
+					<div class="ui card">
+						<div class="content" style="background-color: #424242; max-height: 15%;">
+							<div class="ui header" style="color: white;">Full Stack Web Development Intern</div>
+						</div>
+						<div class="content">
+							<h4 class="ui sub header" style="font-size: 1.5em;">Jan 2017 – May 2017</h4>
+							<div class="ui small feed">
+								<div class="event">
+									<div class="content">
+										<div class="summary" style="font-size: 150%; text-align: justify; ">
+											<ul>
+												<li>Designed a web-based quiz for HR Department to bring awareness among employees regarding issues prevailing on the campus. </li>
+												<li>The admin of the portal can design the layout of the quiz using the drag and drop functionality. </li>
+												<li>Used HTML, CSS, BootStrap for UI, HQL for querying data from database, hibernate framework for mapping object oriented java classes to relational database and AngularJS for calling REST Api’s developed in JAVA through HTTP request. </li>
+												<li>Designed mapper classes to tell hibernate to use which class to get data from database.</li>
+											</ul>
+											
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="extra content">
+							<div class="right floated author">
+								<img class="ui mini circular image" src="images/infosys.png"> Infosys Pvt. Ltd.
+							</div>
+						</div>
+					</div>
+					<div class="ui card">
+						<div class="content" style="background-color: #424242; max-height:15%;">
+							<div class="ui header" style="color: white;">Web Development Intern</div>
+						</div>
+						<div class="content">
+							<h4 class="ui sub header" style="font-size: 1.5em;">May 2015 – July 2015</h4>
+							<div class="ui small feed">
+								<div class="event">
+									<div class="content">
+										<div class="summary" style="font-size: 150%; text-align: justify; ">
+											<ul>
+												<li>Engineered the website <a href="https://www.foodella.in">www.foodella.in</a> which is an online food delivery service where a customer can visit and choose the food from the available options. </li>
+												<li>Used php for connectivity and querying data from database, HTML, CSS, BootStrap for UI and AngularJS to get response from REST Api’s built in PHP.</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="extra content">
+							<div class="right floated author">
+								<img class="ui mini circular image" src="images/foodella.jpg"> TexFood Hospitality Pvt. Ltd.
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<br>
+		<div class="ui styled accordion" style="width: 100%;">
+			<div class="active title" style="font-size: 2em;">
+				<i class="dropdown icon"></i>
+				PROJECTS
+			</div>
+			<div class="active content">
+				<table class="ui celled table">
+					<tbody>
+						<tr onclick="window.open('https://github.com/princemandlewala/microservice-architecture')" onmouseover="" style="cursor: pointer;">
+							<td class="collapsing">
+								<i class="git icon"></i>Notes Web-App
+							</td>
+							<td style="text-align: justify;">A personal project to understand micro-service architecture. It is a small note-taking web app where a user can create, update, delete and read notes. Each and every service is developed as a micro-service and the main motive of this project is to study in and outs of the micro-service architecture, understand mesh architecture and build reusable micro-services.</td>
+							<td>MEAN Stack</td>
+							<td class="right aligned collapsing">May 2018 – Present</td>
+						</tr>
+						<tr onclick="window.open('https://github.com/princemandlewala/BookSharingApplication')" onmouseover="" style="cursor: pointer;">
+							<td class="collapsing">
+								<i class="git icon"></i>Software Development
+							</td>
+							<td style="text-align: justify;">Building a book-lending website with Test Driven Development where a borrower and lender can find each other and can get books for free for a stint. Using technologies like HTML, CSS, AngularJS, BootStrap and JavaScript. Building RESTFul Web Services to provide support for different functionalities of the web application. Using PHP for connectivity to the MySQL database and querying data from back-end using RESTFul Web Services developed in PHP.</td>
+							<td>PL/SQl, MySQL Database, PHP, AngularJS, RESTFul Web Services, BootStrap, HTML, CSS, JavaScript</td>
+							<td class="right aligned collapsing">Jan 2018 – Feb 2018</td>
+						</tr>
+						<tr onclick="window.open('https://github.com/princemandlewala/Database-Management-System')" onmouseover="" style="cursor: pointer;">
+							<td class="collapsing">
+								<i class="git icon"></i> Quiz Management System
+							</td>
+							<td style="text-align: justify;">Developed a PL/SQL procedure based Java based application where professors can create course for which he/she can create quiz, add questions and see reports of the grades of the students enrolled in the course once the students attempts the quiz posted by the professor</td>
+							<td>PL/SQl, JDBC, Java, Oracle Database</td>
+							<td class="right aligned collapsing">Aug 2017 – Nov 2017</td>
+						</tr>
+						<tr onclick="window.open('https://github.com/princemandlewala')" onmouseover="" style="cursor: pointer;">
+							<td>
+								<i class="git icon"></i> Machine Learning <br>&emsp;&nbsp;&nbsp;Techniques
+							</td>
+							<td style="text-align: justify;">Implemented various machine learning techniques like Regression, Clustering, Forecasting and Neural Networks using Python</td>
+							<td>Python</td>
+							<td class="right aligned">Aug 2017 – Nov 2017</td>
+						</tr>
+						<tr onclick = "window.open('https://github.com/princemandlewala/HackGT')" onmouseover="" style="cursor: pointer;">
+							<td>
+								<i class="git icon"></i> HackGT Project
+							</td>
+							<td style="text-align: justify;">Developed a web application for students to organize notes. The web application gives a feature to take images of hand-written notes and upload on the server which will be converted to text by the Microsoft Vision API and will be stored in the database. Students can than organize the notes according to the subject. Students can also see the notes uploaded by other students if they are friend of that student or if they follow the subject of which the notes is about.</td>
+							<td>Spring MVC, Java, Hibernate Framework, HTML5, CSS3, BootStrap 3.0</td>
+							<td class="right aligned">Sep 2017 – Sep 2017</td>
+						</tr>
+						<tr>
+							<td>
+								<i class="git icon"></i> Cafeteria Website
+							</td>
+							<td>Developed a website for local cafeteria to automate the order management system</td>
+							<td>HTML5, CSS3, BootStrap 3.0, JDBC, Oracle Database</td>
+							<td class="right aligned">-</td>
+						</tr>
+						<tr onclick="window.open('https://github.com/princemandlewala/NewsClassification')" onmouseover="" style="cursor: pointer;">
+							<td>
+								<i class="git icon"></i> News Classifier
+							</td>
+							<td>Developed News classifier using MultiNomial Naive Bayes and Multiclass Support Vector Machines in Python. Removed stop words using nltk and increased the accuracy of the classifier by 4%.</td>
+							<td>Python</td>
+							<td class="right aligned">Sep 2017 – Sep 2017</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+	<br>
+	<br>
+	<div class="ui vertical footer segment" style="background-color: #424242;">
+		<br>
+		<div class="ui aligned container">
+			<div class="ui stackable inverted divided grid">
+				<div class="eight wide column">
+					<h1 class="ui inverted teal header">Email</h1>
+					<p style="color: white; font-size: 150%;">pjmandle@ncsu.edu | priyance.mandlewala@gmail.com</p>
+					<h1 class="ui inverted teal header">Phone</h1>
+					<p style="color: white; font-size: 150%;">(919)-480-4552</p>
+					<h1 class="ui inverted teal header">Social</h1>
+					<p style="color: white; font-size: 200%;"><i class="github square icon" onclick="window.open('https://github.com/princemandlewala')" onmouseover="" style="cursor: pointer;"></i></a><i class="linkedin square icon" onclick="window.open('https://www.linkedin.com/in/priyance/')" onmouseover="" style="cursor: pointer;"></i><i class="facebook square icon" onclick="window.open('https://www.facebook.com/priyansh.mandlewala.7')" onmouseover="" style="cursor: pointer;"></i><i class="twitter square icon" onclick="window.open('https://twitter.com/Harv_Prince')" onmouseover="" style="cursor: pointer;"></i></p>
+				</div>
+				<div class="eight wide column">
+					<h1 class="ui inverted teal header">Address</h1>
+					<p style="color: white; font-size: 150%;">
+						3502 Ivy Commons Dr,<br>
+						Apartment 302<br>
+						Raleigh NC 27606<br>
+						USA
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script>
+		$('.ui.accordion').accordion();
+	</script>
+</body>
+</html>
