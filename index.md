@@ -1,4 +1,4 @@
-[embed]https://github.com/RajendraJadi/rajendrajadi.github.io/blob/master/Rajendra_Jadi.pdf[/embed]
+[embed]https://github.com/RajendraJadi/rajendrajadi.github.io/blob/master/Rajendra_Jadi.pdf [/embed]
 
 ## Rajendra Jadi  
 rajendrayjadi@gmail.com 704-241-4674  https://www.linkedin.com/in/rjadi/  https://github.com/RajendraJadi
