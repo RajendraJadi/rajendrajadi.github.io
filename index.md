@@ -1,3 +1,5 @@
+[embed]https://github.com/RajendraJadi/rajendrajadi.github.io/blob/master/Rajendra_Jadi.pdf[/embed]
+
 ## Rajendra Jadi  
 rajendrayjadi@gmail.com 704-241-4674  https://www.linkedin.com/in/rjadi/  https://github.com/RajendraJadi
 Software Engineer with programming experience of 3+ years. Seeking full time opportunities in Software Engineering, Data Engineering.
