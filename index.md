@@ -1,48 +1,62 @@
-
-[embed]https://github.com/RajendraJadi/rajendrajadi.github.io/blob/master/Rajendra_Jadi.pdf [/embed]
-
-## Rajendra Jadi  
-rajendrayjadi@gmail.com 704-241-4674  https://www.linkedin.com/in/rjadi/  https://github.com/RajendraJadi
-Software Engineer with programming experience of 3+ years. Seeking full time opportunities in Software Engineering, Data Engineering.
-
-### Technical skills
-• Python, SQL, Java, Scala, C++  • Linux, Natural Language Processing
-• Hadoop, MapReduce, Spark, Hive, Solr  • AWS (S3, EC2, EMR), Google Cloud
-• HiveQL, PostgreSQL, Teradata, MySQL  • Javascript, php, Git, Docker, Tableau 
-
-### Work Experience
-
-### Data Engineer (Internship), Relishly Inc, Santa Clara, CA June 2018- Aug 2018
-A technology startup that builds AI platform to enrich shopping experiences for e-commerce stores, retailers, comparison shopping engines.
-Development (Python | Linux | Shell | Apache Beam | Solr | Google Cloud)
-• Built Data pipelines using Apache Beam to analyze real time logs of e-commerce website to create analytics indexing the data in Solr.
-• Implemented trending algorithm to find trendiness of items for the e-commerce platform using rolling z-score.
-• Developed API for dashboard to pull data from Solr.
-• Automated backup of Solr collections from Solr to Google storage.
-• Automated the solr, zookeeper cluster setup in google cloud and implemented disaster recovery during downtime.
-
-### Software Engineer, Tesco PLC, India July 2014 – July 2017
-The multinational Supply chain and general merchandise retailer.
-Development (Linux| Java | Hadoop | Hive | SQL | Spark | Teradata | ETL)
-• Developed and implemented the complex ETL solution for Group Promotional Forecasting model for store appliance which provides near real time accurate promotion forecasting to deliver availability, waste and stockholding benefits.
-• Implemented MapReduce paradigm in conjunction with Apache Hadoop to parallelly execute complex operation on Big data, increasing the overall performance by 20%.
-• Developed a framework from Teradata to Hadoop using SQOOP for live Archival of data, which helped in making better decisions due to availability of huge data.
-• Built an automation tool to perform functional testing, QA testing, referential integrity checks using Java and Teradata stored procedures to automate routine tasks.
-• Automated batch monitoring and testing activities utilizing shell scripting and python programming to drive automation, reducing manual efforts by 30%.
-
-### Education
-Master’s Degree, Computer Science (3.75/4.00) University of North Carolina at Charlotte Expected Graduation: December 2018
-Courses: Parallel Computing, Machine-Learning, Cloud Computing, Natural Language Processing, Big Data analytics
-Bachelor’s Degree, Information Science (8.00/10) Visvesvaraya Technological University, India Aug 2010 – Jun 2014
-Courses: Software Engineering, Data warehousing and Data mining, Business Intelligence, Databases, Web Development 
-
-### Research/Academic Projects
-Software Engineering: Classification of Facebook news feeds and Sentiment analysis - Developed a tool that extracts real-time data, classifies the Facebook user’s news feeds into various categories using classifiers like Naïve Bayes, SVM, Logistic Regression and perform sentiment analysis on facebook news feeds. Publication: International Conference on Advances in Computing, Communications and Informatics
-Parallel Programming: Implemented parallel algorithms using pthreads, openMP, MPI and analyzed speedup of various algorithms.
-Natural Language Processing: Built a classifier in Python to classify 2016 Presidential debate using Multinomial Naive Bayes Classifier and Support Vector Classifier. Increased accuracy of classifier by 2.5%. Implemented Language Model and spell checker in python.
-Machine Learning: Regression, Clustering, Classification, Forecasting, Support Vector Machines and Artificial Neural Network on various datasets and tested the models against various tests to decide the correctness of the model using Python.
-Data Mining: Independent Research Project - Implementing Action Rules for Sentiment analysis on Twitter data using Spark.
-Indexed Wikipedia dataset using Elastic search, Solr in AWS and Google cloud.
-Web Development: Research Assistant - Developed frond end components using PHP, HTML & javascript in Laravel framework. Fabricated the interface of website using HTML, CSS, JavaScript and JQuery.
-Other Technologies: Shell Scripting, Scala, Git, Ab Initio, ETL, HDFS, Oozie, Yarn, NLTK, Numpy, Pandas, Sci-kit learn, Git, TensorFlow, Anaconda, Docker, Tableau, Linux, Microsoft Windows, XML, JSON, Unit testing, Pytest, Performance testing.
-Website: https://rajendrajadi.github.io/|
+<table style="border-collapse: collapse; border: none;" width="763">
+<tbody>
+<tr style="height: 50.85pt;">
+<td style="width: 572.0pt; border: none; padding: 0in 0in 0in 0in; height: 50.85pt;" width="763">
+<h1 style="line-height: 12.85pt; tab-stops: 460.95pt; margin: 3.5pt -9.0pt .0001pt 0in;"><span style="font-size: 14px; font-weight: 400;"><span style="font-size: 18.0pt; font-family: 'Calibri',sans-serif;">&nbsp; &nbsp; </span></span></h1>
+<h1 style="line-height: 12.85pt; tab-stops: 460.95pt; margin: 3.5pt .7pt .0001pt .1pt;"><span style="font-size: 14px; font-weight: 400;"><span style="font-size: 10.0pt; font-family: 'Calibri',sans-serif;">Software Engineer</span><span style="font-size: 10.0pt; font-family: 'Calibri',sans-serif;"> with programming experience of 3+ years. Seeking full time opportunities in Software Engineering, Data Engineering.</span></span></h1>
+<p style="margin-top: .05pt; line-height: 12.85pt; tab-stops: 372.95pt;">&nbsp;</p>
+<p style="margin-top: .05pt; line-height: 12.85pt; tab-stops: 372.95pt;"><span style="font-size: 10.0pt; font-family: 'Calibri',sans-serif; background: #DFDFDF;">Technical skills&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
+<table style="border-collapse: collapse; border: none; height: 55px;" width="762">
+<tbody>
+<tr style="height: 20.25pt;">
+<td style="width: 357.6px; padding: 0in 5.4pt; height: 20px;">
+<p style="margin-left: 27.6pt; text-indent: -16.5pt; line-height: 115%;"><span style="font-size: 10.0pt; line-height: 115%; font-family: Symbol;">&middot;<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;">Python, Java, SQL, Scala, C++ </span></p>
+</td>
+<td style="width: 372.8px; padding: 0in 5.4pt; height: 20px;">
+<p style="margin-left: .5in; text-indent: -.25in; line-height: 115%;"><span style="font-size: 10.0pt; line-height: 115%; font-family: Symbol;">&middot;<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;">Linux, Natural Language Processing</span></p>
+</td>
+</tr>
+<tr style="height: 17.55pt;">
+<td style="width: 357.6px; padding: 0in 5.4pt; height: 17px;">
+<p style="margin-left: 27.6pt; text-indent: -16.5pt; line-height: 115%;"><span style="font-size: 10.0pt; line-height: 115%; font-family: Symbol;">&middot;<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;">Hadoop, MapReduce, Spark, Hive, Solr</span></p>
+</td>
+<td style="width: 372.8px; padding: 0in 5.4pt; height: 17px;">
+<p style="margin-left: .5in; text-indent: -.25in; line-height: 115%;"><span style="font-size: 10.0pt; line-height: 115%; font-family: Symbol;">&middot;<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;">AWS (S3, EC2, EMR), Google Cloud</span></p>
+</td>
+</tr>
+<tr style="height: 18.45pt;">
+<td style="width: 357.6px; padding: 0in 5.4pt; height: 18px;">
+<p style="margin-left: 27.6pt; text-indent: -16.5pt; line-height: 115%;"><span style="font-size: 10.0pt; line-height: 115%; font-family: Symbol;">&middot;<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;">HiveQL, PostgreSQL, Teradata, MySQL</span></p>
+</td>
+<td style="width: 372.8px; padding: 0in 5.4pt; height: 18px;">
+<p style="text-indent: -.25in; line-height: 115%; margin: 0in 11.4pt .0001pt .5in;"><span style="font-size: 10.0pt; line-height: 115%; font-family: Symbol;">&middot;<span style="font: 7.0pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;">Javascript, php, Git, Docker, Tableau </span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Work Experience <br />Data Engineer (Internship), Relishly Inc, Santa Clara, CA June 2018- Aug 2018<br />A technology startup that builds AI platform to enrich shopping experiences for e-commerce stores, retailers, comparison shopping engines. <br />Development (Python | Linux | Shell | Apache Beam | Solr | Google Cloud)<br />&bull; Built Data pipelines using Apache Beam to analyze real time logs of e-commerce website to create analytics indexing the data in Solr. <br />&bull; Implemented trending algorithm to find trendiness of items for the e-commerce platform using rolling z-score.<br />&bull; Developed RESTful API for dashboard to pull data from Solr.<br />&bull; Automated backup of Solr collections from Solr to Google storage.<br />&bull; Automated the solr, zookeeper cluster setup in google cloud and implemented disaster recovery during downtime.</p>
+<p>&nbsp;</p>
+<p>Software Engineer, Tesco PLC, India July 2014 &ndash; July 2017<br />The multinational Supply chain and general merchandise retailer.<br />Development (Linux| Java | Hadoop | Hive | SQL | Spark | Teradata | ETL)<br />&bull; Developed and implemented the complex ETL solution for Group Promotional Forecasting model for store appliance which provides near real time accurate promotion forecasting to deliver availability, waste and stockholding benefits.<br />&bull; Implemented MapReduce paradigm in conjunction with Apache Hadoop to parallelly execute complex operation on Big data, increasing the overall performance by 20%.<br />&bull; Developed a framework from Teradata to Hadoop using SQOOP for live Archival of data, which helped in making better<br />decisions due to availability of huge data.<br />&bull; Built an automation tool to perform functional testing, QA testing, referential integrity checks using Java and Teradata stored procedures to automate routine tasks.<br />&bull; Automated batch monitoring and testing activities utilizing shell scripting and python programming to drive automation, reducing manual efforts by 30%.</p>
+<p>&nbsp;<span style="font-size: 10.0pt; font-family: 'Calibri',sans-serif; background: #DFDFDF;">Education&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<h1 style="line-height: 115%; tab-stops: 460.95pt; margin: 3.5pt -54.6pt .0001pt .1pt;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;">Master&rsquo;s Degree, Computer Science</span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;"> (3.75/4.00) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of North Carolina at Charlotte&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;">Expected Graduation: December 2018</span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></h1>
+<h1 style="line-height: 115%; tab-stops: 460.95pt; margin: 3.5pt -54.6pt .0001pt .1pt;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; color: black;">Courses: Parallel Computing, Machine-Learning, Cloud Computing, Natural Language Processing, Big Data analytics</span></h1>
+<h1 style="line-height: 115%; tab-stops: 460.95pt; margin: 3.5pt -54.6pt .0001pt .1pt;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;">Bachelor&rsquo;s Degree</span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;">, Information Science (8.00/10) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;">&nbsp;&nbsp;&nbsp;</span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;">Visvesvaraya Technological University, India &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;">Aug 2010 &ndash; Jun 2014</span></h1>
+<h1 style="line-height: 115%; tab-stops: 460.95pt; margin: 3.5pt -54.6pt .0001pt .1pt;"><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;">Courses: Software Engineering, Data warehousing and Data mining, Business Intelligence, </span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; color: black;">Databases,</span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;"> Web Development</span><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></h1>
+<p style="margin-top: .05pt; line-height: 115%; tab-stops: 372.95pt;"><strong><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; background: #DFDFDF;">Research/Academic Projects&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></strong></p>
+<p style="line-height: 115%; tab-stops: 33.0pt; margin: .05pt -4.5pt .0001pt 0in;"><strong><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;">Software Engineering</span></strong><span style="font-size: 10.0pt; line-height: 115%; font-family: 'Calibri',sans-serif;">: <u>Classification of Facebook news feeds and Sentiment analysis</u> - Developed a tool that extracts real-time data, classifies the Facebook user&rsquo;s news feeds into various categories using classifiers like Na&iuml;ve Bayes, SVM, Logistic Regression and perform sentiment analysis on facebook news feeds. &nbsp;&nbsp;&nbsp;&nbsp;<strong>Publication</strong>: International Conference on Advances in Computing, Communications and Informatics</span></p>
+<p style="line-height: 110%; tab-stops: 33.0pt; margin: .05pt -4.5pt .0001pt 0in;"><strong><span style="font-size: 10.0pt; line-height: 110%; font-family: 'Calibri',sans-serif;">Parallel Programming: </span></strong><span style="font-size: 10.0pt; line-height: 110%; font-family: 'Calibri',sans-serif;">Implemented parallel algorithms using pthreads, openMP, MPI and analyzed speedup of various algorithms. </span></p>
+<p style="line-height: 110%; tab-stops: 33.0pt; margin: .05pt -4.5pt .0001pt 0in;"><strong><span style="font-size: 10.0pt; line-height: 110%; font-family: 'Calibri',sans-serif;">Natural Language Processing</span></strong><span style="font-size: 10.0pt; line-height: 110%; font-family: 'Calibri',sans-serif;">: Built a classifier in Python to classify 2016 Presidential debate using Multinomial Naive Bayes Classifier and Support Vector Classifier. Increased accuracy of classifier by 2.5%. Implemented Language Model and spell checker in python.</span></p>
+<p style="line-height: 110%; tab-stops: 33.0pt; margin: .05pt -4.5pt .0001pt 0in;"><strong><span style="font-size: 10.0pt; line-height: 110%; font-family: 'Calibri',sans-serif;">Machine Learning:</span></strong><span style="font-size: 10.0pt; line-height: 110%; font-family: 'Calibri',sans-serif;"> Regression, Clustering, Classification, Forecasting, Support Vector Machines and Artificial Neural Network on various datasets and tested the models against various tests to decide the correctness of the model using Python.</span></p>
+<p style="line-height: 110%; tab-stops: 33.0pt; margin: .05pt -4.5pt .0001pt 0in;"><strong><span style="font-size: 10.0pt; line-height: 110%; font-family: 'Calibri',sans-serif;">Data Mining: </span></strong><u><span style="font-size: 10.0pt; line-height: 110%; font-family: 'Calibri',sans-serif;">Independent Research Project</span></u><span style="font-size: 10.0pt; line-height: 110%; font-family: 'Calibri',sans-serif;"> - Implementing Action Rules for Sentiment analysis on Twitter data using Spark. </span></p>
+<p style="line-height: 110%; tab-stops: 33.0pt; margin: .05pt -4.5pt .0001pt 0in;"><strong><span style="font-size: 10.0pt; line-height: 110%; font-family: 'Calibri',sans-serif;">&nbsp;</span></strong><span style="font-size: 10.0pt; line-height: 110%; font-family: 'Calibri',sans-serif;">Indexed Wikipedia dataset using Elastic search, Solr in AWS and Google cloud.</span></p>
+<p style="line-height: 110%; tab-stops: 33.0pt; margin: .05pt -4.5pt .0001pt 0in;"><strong><span style="font-size: 10.0pt; line-height: 110%; font-family: 'Calibri',sans-serif;">Web Development</span></strong><span style="font-size: 10.0pt; line-height: 110%; font-family: 'Calibri',sans-serif;">: <u>Research Assistant</u> - Developed frond end components using PHP, HTML &amp; javascript in Laravel framework. Fabricated the interface of website using HTML, CSS, JavaScript and JQuery. </span></p>
+<p style="line-height: 110%; tab-stops: 33.0pt; margin: .05pt -4.5pt .0001pt 0in;"><span style="font-size: 10.0pt; line-height: 110%; font-family: 'Calibri',sans-serif;">Other Technologies: Shell Scripting, Scala, Git, Ab Initio, ETL, HDFS, Oozie, Yarn, NLTK, Numpy, Pandas, Sci-kit learn, Git, TensorFlow, Anaconda, Docker, Tableau, Automation, Big Data, Linux, Microsoft Windows, XML, JSON, Unit testing, Pytest, Performance testing.</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 572pt; border: none; padding: 0in;">
+<h1 style="line-height: 12.85pt; tab-stops: 460.95pt; margin: 3.5pt -9.0pt .0001pt 0in;"><span style="font-size: 14px; font-weight: 400;"><span style="font-size: 18.0pt; font-family: 'Calibri',sans-serif;">&nbsp;</span></span></h1>
+</td>
+</tr>
+</tbody>
+</table>
